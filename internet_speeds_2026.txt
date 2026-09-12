@@ -1,0 +1,103 @@
+#	Country	Mbps
+1	-	United Arab Emirates	663.50
+2	-	Qatar	548.35
+3	-	Kuwait	392.52
+4	-	Germany	274.44
+5	-	Brazil	268.37
+6	-	Brunei	253.99
+7	-3	Bahrain	252.12
+8	-1	South Korea	247.71
+9	-1	Saudi Arabia	228.04
+10	+10	Vietnam	205.58
+11	-2	Bulgaria	203.39
+12	-2	United States	189.21
+13	-1	China	179.80
+14	-3	North Macedonia	176.26
+15	-	Singapore	169.06
+16	+2	Oman	166.00
+17	-3	Denmark	161.95
+18	-1	Georgia	159.49
+19	+4	Malaysia	159.43
+20	+1	Kosovo	158.72
+21	-2	Netherlands	158.57
+22	-6	Estonia	151.18
+23	+1	Serbia	150.64
+24	-2	Norway	146.53
+25	+8	New Zealand	145.51
+26	-	Slovenia	144.46
+27	-14	Türkiye	142.94
+28	-	Greece	142.54
+29	-	Portugal	140.51
+30	+2	Belgium	140.13
+31	-	France	136.74
+32	+3	Thailand	135.89
+33	-8	Croatia	135.33
+34	-7	Sweden	132.74
+35	-5	Latvia	131.39
+36	-	Albania	131.08
+37	-	India	129.30
+38	-4	Lithuania	129.19
+39	-1	Dominican Republic	124.91
+40	-1	Slovakia	120.83
+41	-	Australia	119.44
+42	-6	Finland	119.38
+43	-	Switzerland	115.64
+44	-2	Austria	114.04
+45	-	Cyprus	113.66
+46	-6	Poland	113.55
+47	-3	Taiwan	111.82
+48	-2	Azerbaijan	99.53
+49	-	Cambodia	97.80
+50	-	Hungary	93.57
+51	-3	Czechia	91.86
+52	-1	Italy	90.10
+53	-1	Spain	89.40
+54	-	Hong Kong (SAR)	89.31
+55	-8	Canada	88.84
+56	-3	Kazakhstan	88.05
+57	-1	Romania	83.38
+58	-1	Ireland	82.65
+59	+5	Ukraine	82.22
+60	-5	Chile	80.34
+61	-1	Algeria	78.36
+62	-3	United Kingdom	74.57
+63	-2	Armenia	74.32
+64	-6	Morocco	74.07
+65	-3	Moldova	73.24
+66	-	Iraq	70.64
+67	-	Costa Rica	70.42
+68	-3	Israel	70.37
+69	-6	South Africa	69.71
+70	-2	Japan	67.97
+71	-2	Argentina	67.78
+72	-	Indonesia	64.38
+73	+1	Philippines	64.24
+74	-4	Ecuador	62.82
+75	-2	Uzbekistan	62.42
+76	-1	Guatemala	62.30
+77	-6	Sri Lanka	61.60
+78	+1	Peru	56.78
+79	-3	Tunisia	53.51
+80	-3	Egypt	51.64
+81	-3	Kyrgyzstan	50.22
+82	-2	Jordan	48.55
+83	-1	Colombia	45.96
+84	-	Laos	44.88
+85	-	Tajikistan	43.94
+86	-5	Nigeria	43.79
+87	-1	Mexico	42.76
+88	-3	Honduras	42.52
+89	+1	Panama	38.65
+90	-2	Bangladesh	38.56
+91	-2	El Salvador	37.23
+92	-5	Lebanon	37.11
+93	-	Tanzania	33.29
+94	-3	Sudan	32.14
+95	-3	Pakistan	31.57
+96	-3	Venezuela	28.19
+97	-2	Nicaragua	27.52
+98	-	Paraguay	27.43
+99	-5	Bosnia and Herzegovina	27.10
+100	-4	Libya	20.06
+101	-4	Afghanistan	18.96
+102	-4	Bolivia	16.50
